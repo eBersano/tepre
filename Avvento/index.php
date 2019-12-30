@@ -1,7 +1,9 @@
 <HTML>
 <html lang="it">
 <head>
-
+	
+//Il calendario dell'Avvento funzionerà sempre ogni mese: se oggi fosse infatti il 10 agosto sarebbe possibile aprire tutte
+// le caselline dal numero 1 al 10 :-)
   <title>Il Calendario dell'Avvento di Edoardo Bersano</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
